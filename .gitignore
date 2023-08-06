@@ -1,0 +1,11 @@
+/RSRC
+*.o
+*.o.cmd
+*.ko
+*.ko.cmd
+*.mod.c
+*.mod.o.cmd
+*.order
+*.mod
+*.symvers
+.cache.mk
