@@ -96,7 +96,7 @@ OS KERNEL VERSION: Linux 4.16.7
     > then kernel won't allow you to communicate with other modules that are `GPL only`, also ends up tainting the kernel
     > And still closed source modules(binary modules) are allowed to run but required to mention they're `non GPL` */
     > ```
-  - **Makefile**
+  - > **Makefile**
     >```Makefile
     > obj-m += helloworld.o
     > # obj-m (object module) to compile `helloworld.c` as a module with the name `helloworld.o` 
